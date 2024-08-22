@@ -1,4 +1,4 @@
-package com.cbfacademy.restapiexercise;
+package com.cbfacademy.restapiexercise.ious;
 
 import java.util.List;
 
