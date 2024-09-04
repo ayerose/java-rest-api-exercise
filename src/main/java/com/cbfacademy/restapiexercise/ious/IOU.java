@@ -1,4 +1,5 @@
-package com.cbfacademy.restapiexercise;
+package com.cbfacademy.restapiexercise.ious;
+
 
 import java.math.BigDecimal;
 import java.time.Instant;
